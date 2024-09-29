@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZegoMiniGame'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of KDWCDBSwift.'
+  s.summary          = 'A short description of ZegoMiniGame.'
   s.homepage         = 'https://github.com/kindvoon/ZegoMiniGame.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kindvoon' => 'kindvoon@gmail.com' }
